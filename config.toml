@@ -1,0 +1,20 @@
+baseURL = "https://es.shoogle.net/murcia/"
+languageCode = "es"
+title = "Murcia"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "murcia"
+
+[taxonomies]
+  shop = "shops"
+
