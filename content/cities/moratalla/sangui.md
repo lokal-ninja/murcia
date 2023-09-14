@@ -1,5 +1,5 @@
 ---
 title: "Sangüi"
-url: /moratalla/sanguei/
+url: /moratalla/sangui/
 shop: supermercado
 ---

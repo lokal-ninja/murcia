@@ -1,5 +1,5 @@
 ---
 title: "Rumbo"
-url: /cartagena/rumbo/
+url: /cartagena/rumbo-calle-del-carmen/
 shop: zapatos
 ---

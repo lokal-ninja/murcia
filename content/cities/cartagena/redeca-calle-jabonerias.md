@@ -1,5 +1,5 @@
 ---
 title: "Redeca"
-url: /cartagena/redeca/
+url: /cartagena/redeca-calle-jabonerias/
 shop: zapatos
 ---

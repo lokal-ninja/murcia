@@ -1,5 +1,5 @@
 ---
 title: "Love & Paradise"
-url: /cartagena/love-und-paradise/
+url: /cartagena/love-y-paradise/
 shop: ropa
 ---

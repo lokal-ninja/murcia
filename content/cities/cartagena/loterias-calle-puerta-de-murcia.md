@@ -1,5 +1,5 @@
 ---
 title: "Loterías"
-url: /cartagena/loterias/
+url: /cartagena/loterias-calle-puerta-de-murcia/
 shop: lotería
 ---

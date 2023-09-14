@@ -1,5 +1,5 @@
 ---
 title: "SuperDumbo"
-url: /murcia/superdumbo/
+url: /murcia/superdumbo-calle-telefonista-encarna-ayala/
 shop: supermercado
 ---

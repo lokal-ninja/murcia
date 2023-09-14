@@ -1,5 +1,5 @@
 ---
 title: "Druni"
-url: /cartagena/druni/
+url: /cartagena/druni-calle-santa-florentina/
 shop: perfumería
 ---

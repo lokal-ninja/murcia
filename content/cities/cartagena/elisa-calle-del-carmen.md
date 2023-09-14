@@ -1,5 +1,5 @@
 ---
 title: "Elisa"
-url: /cartagena/elisa/
+url: /cartagena/elisa-calle-del-carmen/
 shop: ropa
 ---

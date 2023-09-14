@@ -1,5 +1,5 @@
 ---
 title: "D&D Interiores"
-url: /cehegin/dundd-interiores/
+url: /cehegin/dyd-interiores/
 shop: decoración interior
 ---
