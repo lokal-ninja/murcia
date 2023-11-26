@@ -1,5 +1,5 @@
 ---
 title: "Medina"
 url: /cartagena/medina/
-shop: menaje del hogar
+shop: decoración interior
 ---
