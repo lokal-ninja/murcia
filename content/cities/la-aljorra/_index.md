@@ -1,6 +1,6 @@
 ---
 title: La Aljorra
 url: /la-aljorra/
-latitude: 37.682
-longitude: -1.063
+latitude: 37.691
+longitude: -1.071
 ---
