@@ -1,6 +1,6 @@
 ---
 title: Cartagena
 url: /cartagena/
-latitude: 37.602
-longitude: -0.987
+latitude: 37.606
+longitude: -0.981
 ---
