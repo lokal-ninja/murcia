@@ -1,5 +1,5 @@
 ---
 title: "Casaú"
 url: /cartagena/casau/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

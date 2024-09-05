@@ -1,5 +1,5 @@
 ---
 title: "Luna"
 url: /cartagena/luna/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Neumáticos Arnau"
 url: /cartagena/neumaticos-arnau/
-shop: neumáticos
+shop: Reifen
 ---

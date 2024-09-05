@@ -1,5 +1,5 @@
 ---
 title: "Kibuc"
 url: /cartagena/kibuc/
-shop: muebles
+shop: Möbel
 ---

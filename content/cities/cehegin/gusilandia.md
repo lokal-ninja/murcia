@@ -1,5 +1,5 @@
 ---
 title: "Gusilandia"
 url: /cehegin/gusilandia/
-shop: comodidad
+shop: Lebensmittel
 ---

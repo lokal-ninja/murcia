@@ -1,5 +1,5 @@
 ---
 title: "Springfield"
 url: /cartagena/springfield/
-shop: ropa
+shop: Kleidung
 ---

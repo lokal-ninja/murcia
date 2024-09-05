@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /espinardo/coviran/
-shop: supermercado
+shop: Supermarkt
 ---

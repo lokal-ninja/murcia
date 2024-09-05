@@ -1,5 +1,5 @@
 ---
 title: "Alpargatus"
 url: /cartagena/alpargatus/
-shop: regalo
+shop: Andenken
 ---

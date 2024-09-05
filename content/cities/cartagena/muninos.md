@@ -1,5 +1,5 @@
 ---
 title: "Muninos"
 url: /cartagena/muninos/
-shop: zapatos
+shop: Schuhe
 ---

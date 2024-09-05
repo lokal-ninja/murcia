@@ -1,5 +1,5 @@
 ---
 title: "Marvimundo"
 url: /cartagena/marvimundo/
-shop: perfumería
+shop: Parfümerie
 ---

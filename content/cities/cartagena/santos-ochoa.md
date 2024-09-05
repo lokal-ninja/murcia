@@ -1,5 +1,5 @@
 ---
 title: "Santos Ochoa"
 url: /cartagena/santos-ochoa/
-shop: libros
+shop: Bücher
 ---

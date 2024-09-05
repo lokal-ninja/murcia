@@ -1,5 +1,5 @@
 ---
 title: "Druni"
 url: /murcia/druni/
-shop: cosméticos
+shop: Kosmetik
 ---

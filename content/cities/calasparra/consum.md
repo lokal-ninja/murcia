@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /calasparra/consum/
-shop: supermercado
+shop: Supermarkt
 ---

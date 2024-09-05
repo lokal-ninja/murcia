@@ -1,5 +1,5 @@
 ---
 title: "Pequeña Moma"
 url: /cartagena/pequena-moma/
-shop: ropa
+shop: Kleidung
 ---

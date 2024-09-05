@@ -1,5 +1,5 @@
 ---
 title: "Spagnolo"
 url: /cartagena/spagnolo/
-shop: ropa
+shop: Kleidung
 ---

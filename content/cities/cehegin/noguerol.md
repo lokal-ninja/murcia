@@ -1,5 +1,5 @@
 ---
 title: "Noguerol"
 url: /cehegin/noguerol/
-shop: panadería
+shop: Bäckerei
 ---

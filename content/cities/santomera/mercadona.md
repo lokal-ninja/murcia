@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /santomera/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

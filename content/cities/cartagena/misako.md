@@ -1,5 +1,5 @@
 ---
 title: "Misako"
 url: /cartagena/misako/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mascotas"
 url: /cartagena/mascotas/
-shop: mascotas
+shop: Tiere
 ---

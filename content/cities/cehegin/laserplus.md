@@ -1,5 +1,5 @@
 ---
 title: "Laserplus"
 url: /cehegin/laserplus/
-shop: cosméticos
+shop: Kosmetik
 ---

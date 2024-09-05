@@ -1,5 +1,5 @@
 ---
 title: "Gesprocasa"
 url: /cartagena/gesprocasa/
-shop: agente inmobiliario
+shop: Immobilien
 ---

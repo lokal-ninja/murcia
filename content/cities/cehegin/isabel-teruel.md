@@ -1,5 +1,5 @@
 ---
 title: "Isabel Teruel"
 url: /cehegin/isabel-teruel/
-shop: peluquería
+shop: Friseur
 ---

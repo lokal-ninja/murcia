@@ -1,5 +1,5 @@
 ---
 title: "Loterías"
 url: /cartagena/loterias/
-shop: lotería
+shop: Lotterie
 ---

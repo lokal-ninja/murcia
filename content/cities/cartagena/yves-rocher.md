@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /cartagena/yves-rocher/
-shop: cosméticos
+shop: Kosmetik
 ---

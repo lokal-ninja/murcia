@@ -1,5 +1,5 @@
 ---
 title: "Argius"
 url: /cehegin/argius/
-shop: ropa
+shop: Kleidung
 ---

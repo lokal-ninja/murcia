@@ -1,5 +1,5 @@
 ---
 title: "Melocotón Regalos"
 url: /cehegin/melocoton-regalos/
-shop: regalo
+shop: Andenken
 ---

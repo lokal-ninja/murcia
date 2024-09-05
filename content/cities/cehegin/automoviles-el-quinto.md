@@ -1,5 +1,5 @@
 ---
 title: "Automóviles el Quinto"
 url: /cehegin/automoviles-el-quinto/
-shop: coche
+shop: Autohaus
 ---

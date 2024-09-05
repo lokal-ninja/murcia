@@ -1,5 +1,5 @@
 ---
 title: "Daily"
 url: /cartagena/daily/
-shop: cosméticos
+shop: Kosmetik
 ---

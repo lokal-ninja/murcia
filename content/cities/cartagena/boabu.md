@@ -1,5 +1,5 @@
 ---
 title: "Boabu"
 url: /cartagena/boabu/
-shop: ropa
+shop: Kleidung
 ---

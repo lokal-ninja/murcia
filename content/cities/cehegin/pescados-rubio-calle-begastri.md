@@ -1,5 +1,5 @@
 ---
 title: "Pescados Rubio"
 url: /cehegin/pescados-rubio-calle-begastri/
-shop: marisco
+shop: Fisch
 ---

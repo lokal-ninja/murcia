@@ -1,5 +1,5 @@
 ---
 title: "Pdf"
 url: /cartagena/pdf/
-shop: ropa
+shop: Kleidung
 ---

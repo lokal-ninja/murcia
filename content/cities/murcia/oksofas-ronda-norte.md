@@ -1,5 +1,5 @@
 ---
 title: "OKSofás Ronda Norte"
 url: /murcia/oksofas-ronda-norte/
-shop: muebles
+shop: Möbel
 ---

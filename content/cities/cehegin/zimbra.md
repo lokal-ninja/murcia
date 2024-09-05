@@ -1,5 +1,5 @@
 ---
 title: "Zimbra"
 url: /cehegin/zimbra/
-shop: comodidad
+shop: Lebensmittel
 ---
