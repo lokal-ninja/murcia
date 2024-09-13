@@ -1,5 +1,5 @@
 ---
 title: "Pronovias"
 url: /cartagena/pronovias/
-shop: Kleidung
+shop: ropa
 ---

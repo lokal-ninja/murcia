@@ -1,5 +1,5 @@
 ---
 title: "Almacenes Solano"
 url: /la-aljorra/almacenes-solano/
-shop: Großhandel
+shop: mayorista
 ---

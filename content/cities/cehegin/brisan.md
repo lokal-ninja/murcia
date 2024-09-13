@@ -1,5 +1,5 @@
 ---
 title: "Brisan"
 url: /cehegin/brisan/
-shop: Friseur
+shop: peluquería
 ---

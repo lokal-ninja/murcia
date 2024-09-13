@@ -1,5 +1,5 @@
 ---
 title: "Zapatando"
 url: /cehegin/zapatando/
-shop: Schuhe
+shop: zapatos
 ---

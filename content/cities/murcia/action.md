@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /murcia/action/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Viajes Dragontours"
 url: /mazarron/viajes-dragontours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

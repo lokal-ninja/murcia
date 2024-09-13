@@ -1,5 +1,5 @@
 ---
 title: "HOYAMAR S.COOP"
 url: /lorca/hoyamar-s-coop/
-shop: Großhandel
+shop: mayorista
 ---

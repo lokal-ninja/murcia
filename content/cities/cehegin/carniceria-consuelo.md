@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Consuelo"
 url: /cehegin/carniceria-consuelo/
-shop: Metzgerei
+shop: carnicero
 ---

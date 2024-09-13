@@ -1,5 +1,5 @@
 ---
 title: "Azulejos Reina"
 url: /cartagena/azulejos-reina/
-shop: Badezimmer
+shop: cuarto de baño
 ---

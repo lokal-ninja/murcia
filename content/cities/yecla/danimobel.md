@@ -1,5 +1,5 @@
 ---
 title: "Danimobel"
 url: /yecla/danimobel/
-shop: Möbel
+shop: muebles
 ---

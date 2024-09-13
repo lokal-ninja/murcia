@@ -1,5 +1,5 @@
 ---
 title: "Sfera"
 url: /cartagena/sfera/
-shop: Kleidung
+shop: ropa
 ---

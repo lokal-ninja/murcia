@@ -1,5 +1,5 @@
 ---
 title: "Alarcón"
 url: /cehegin/alarcon/
-shop: Lampen
+shop: lámparas
 ---

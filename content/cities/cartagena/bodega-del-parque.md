@@ -1,5 +1,5 @@
 ---
 title: "Bodega del Parque"
 url: /cartagena/bodega-del-parque/
-shop: Spirituosen
+shop: alcohol
 ---

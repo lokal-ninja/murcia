@@ -1,5 +1,5 @@
 ---
 title: "Pescadería Mari"
 url: /murcia/pescaderia-mari/
-shop: Fisch
+shop: marisco
 ---

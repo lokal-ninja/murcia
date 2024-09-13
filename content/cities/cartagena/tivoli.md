@@ -1,5 +1,5 @@
 ---
 title: "Tivoli"
 url: /cartagena/tivoli/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Benotac"
 url: /cartagena/benotac/
-shop: Computer
+shop: ordenador
 ---

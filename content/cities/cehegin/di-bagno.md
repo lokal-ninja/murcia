@@ -1,5 +1,5 @@
 ---
 title: "DI BAGNO"
 url: /cehegin/di-bagno/
-shop: Badezimmer
+shop: cuarto de baño
 ---

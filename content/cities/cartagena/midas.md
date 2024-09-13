@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /cartagena/midas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

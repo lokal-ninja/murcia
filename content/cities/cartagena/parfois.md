@@ -1,5 +1,5 @@
 ---
 title: "Parfois"
 url: /cartagena/parfois/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

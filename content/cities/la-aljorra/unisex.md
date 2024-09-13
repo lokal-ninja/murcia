@@ -1,5 +1,5 @@
 ---
 title: "Unisex"
 url: /la-aljorra/unisex/
-shop: Friseur
+shop: peluquería
 ---

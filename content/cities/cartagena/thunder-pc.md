@@ -1,5 +1,5 @@
 ---
 title: "Thunder Pc"
 url: /cartagena/thunder-pc/
-shop: Computer
+shop: ordenador
 ---

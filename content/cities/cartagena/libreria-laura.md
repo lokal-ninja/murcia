@@ -1,5 +1,5 @@
 ---
 title: "Librería Laura"
 url: /cartagena/libreria-laura/
-shop: Bücher
+shop: libros
 ---

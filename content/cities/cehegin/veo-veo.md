@@ -1,5 +1,5 @@
 ---
 title: "Veo Veo"
 url: /cehegin/veo-veo/
-shop: Kramladen
+shop: tienda de variedades
 ---

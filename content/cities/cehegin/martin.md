@@ -1,5 +1,5 @@
 ---
 title: "Martín"
 url: /cehegin/martin/
-shop: Bäckerei
+shop: panadería
 ---

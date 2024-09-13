@@ -1,5 +1,5 @@
 ---
 title: "OKSofás Murcia"
 url: /murcia/oksofas-murcia/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "7Heroes"
 url: /murcia/7heroes/
-shop: Bücher
+shop: libros
 ---

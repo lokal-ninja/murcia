@@ -1,5 +1,5 @@
 ---
 title: "Efectos Navales Mendoza"
 url: /cartagena/efectos-navales-mendoza/
-shop: Andenken
+shop: regalo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /cehegin/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

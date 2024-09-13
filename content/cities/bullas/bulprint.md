@@ -1,5 +1,5 @@
 ---
 title: "Bulprint"
 url: /bullas/bulprint/
-shop: Kopieren
+shop: copyshop
 ---

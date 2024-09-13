@@ -1,5 +1,5 @@
 ---
 title: "Cafés Cavite"
 url: /cartagena/cafes-cavite/
-shop: Kaffee
+shop: café
 ---

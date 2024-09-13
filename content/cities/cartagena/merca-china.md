@@ -1,5 +1,5 @@
 ---
 title: "Merca China"
 url: /cartagena/merca-china/
-shop: Kramladen
+shop: tienda de variedades
 ---

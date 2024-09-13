@@ -1,5 +1,5 @@
 ---
 title: "Decimas"
 url: /cartagena/decimas/
-shop: Kleidung
+shop: ropa
 ---

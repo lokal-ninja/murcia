@@ -1,5 +1,5 @@
 ---
 title: "Montego"
 url: /cartagena/montego/
-shop: Schmuck
+shop: joyería
 ---

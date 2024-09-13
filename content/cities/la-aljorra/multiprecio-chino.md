@@ -1,5 +1,5 @@
 ---
 title: "Multiprecio Chino"
 url: /la-aljorra/multiprecio-chino/
-shop: Kramladen
+shop: tienda de variedades
 ---

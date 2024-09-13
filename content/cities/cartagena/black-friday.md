@@ -1,5 +1,5 @@
 ---
 title: "Black Friday"
 url: /cartagena/black-friday/
-shop: Andenken
+shop: regalo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /cartagena/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

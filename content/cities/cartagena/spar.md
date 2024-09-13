@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /cartagena/spar/
-shop: Supermarkt
+shop: supermercado
 ---

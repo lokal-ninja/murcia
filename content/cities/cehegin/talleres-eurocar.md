@@ -1,5 +1,5 @@
 ---
 title: "Talleres Eurocar"
 url: /cehegin/talleres-eurocar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

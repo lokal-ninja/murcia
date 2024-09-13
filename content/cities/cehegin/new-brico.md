@@ -1,5 +1,5 @@
 ---
 title: "New Brico"
 url: /cehegin/new-brico/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

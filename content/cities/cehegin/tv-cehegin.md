@@ -1,5 +1,5 @@
 ---
 title: "TV Cehegín"
 url: /cehegin/tv-cehegin/
-shop: Handy
+shop: teléfono móvil
 ---

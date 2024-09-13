@@ -1,5 +1,5 @@
 ---
 title: "Yoigo"
 url: /cartagena/yoigo/
-shop: Handy
+shop: teléfono móvil
 ---

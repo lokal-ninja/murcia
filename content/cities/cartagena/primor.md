@@ -1,5 +1,5 @@
 ---
 title: "Primor"
 url: /cartagena/primor/
-shop: Parfümerie
+shop: perfumería
 ---

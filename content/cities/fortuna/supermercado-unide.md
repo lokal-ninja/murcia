@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Unide"
 url: /fortuna/supermercado-unide/
-shop: Supermarkt
+shop: supermercado
 ---

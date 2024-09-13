@@ -1,5 +1,5 @@
 ---
 title: "Entre Horas"
 url: /cartagena/entre-horas/
-shop: Lebensmittel
+shop: comodidad
 ---

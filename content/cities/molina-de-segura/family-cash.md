@@ -1,5 +1,5 @@
 ---
 title: "Family Cash"
 url: /molina-de-segura/family-cash/
-shop: Supermarkt
+shop: supermercado
 ---

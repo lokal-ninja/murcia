@@ -1,5 +1,5 @@
 ---
 title: "Desguace Londres"
 url: /cartagena/desguace-londres/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Esperanza Magro"
 url: /cartagena/esperanza-magro/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Inside"
 url: /cartagena/inside/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papelería"
 url: /churra/papeleria/
-shop: Schreibwaren
+shop: material de oficina
 ---

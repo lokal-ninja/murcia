@@ -1,5 +1,5 @@
 ---
 title: "Carey"
 url: /cartagena/carey/
-shop: Kleidung
+shop: ropa
 ---

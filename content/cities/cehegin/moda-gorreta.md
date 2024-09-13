@@ -1,5 +1,5 @@
 ---
 title: "Moda Gorreta"
 url: /cehegin/moda-gorreta/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Medina"
 url: /cartagena/medina/
-shop: Raumausstattung
+shop: decoración interior
 ---

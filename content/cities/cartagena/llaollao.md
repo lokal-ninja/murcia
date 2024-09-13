@@ -1,5 +1,5 @@
 ---
 title: "Llaollao"
 url: /cartagena/llaollao/
-shop: Eisprodukte
+shop: helado
 ---

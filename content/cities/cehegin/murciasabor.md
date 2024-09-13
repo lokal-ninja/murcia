@@ -1,5 +1,5 @@
 ---
 title: "MurciaSabor"
 url: /cehegin/murciasabor/
-shop: Wein
+shop: vino
 ---

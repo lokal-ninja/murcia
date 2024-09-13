@@ -1,5 +1,5 @@
 ---
 title: "Sex Star"
 url: /cartagena/sex-star/
-shop: Erotik
+shop: erótico
 ---

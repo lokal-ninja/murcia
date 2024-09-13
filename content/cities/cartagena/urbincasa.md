@@ -1,5 +1,5 @@
 ---
 title: "Urbincasa"
 url: /cartagena/urbincasa/
-shop: Immobilien
+shop: agente inmobiliario
 ---

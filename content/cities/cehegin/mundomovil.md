@@ -1,5 +1,5 @@
 ---
 title: "MundoMóvil"
 url: /cehegin/mundomovil/
-shop: Handy
+shop: teléfono móvil
 ---

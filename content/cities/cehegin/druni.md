@@ -1,5 +1,5 @@
 ---
 title: "Druni"
 url: /cehegin/druni/
-shop: Parfümerie
+shop: perfumería
 ---

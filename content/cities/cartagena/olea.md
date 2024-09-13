@@ -1,5 +1,5 @@
 ---
 title: "Olea"
 url: /cartagena/olea/
-shop: Kleidung
+shop: ropa
 ---

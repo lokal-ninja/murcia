@@ -1,5 +1,5 @@
 ---
 title: "Juguettos"
 url: /cehegin/juguettos/
-shop: Spielzeug
+shop: juguetes
 ---

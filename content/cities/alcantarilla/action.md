@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /alcantarilla/action/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /cartagena/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

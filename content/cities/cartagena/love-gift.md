@@ -1,5 +1,5 @@
 ---
 title: "Love Gift"
 url: /cartagena/love-gift/
-shop: Andenken
+shop: regalo
 ---

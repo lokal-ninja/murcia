@@ -1,5 +1,5 @@
 ---
 title: "Copistería El Parrales"
 url: /cehegin/copisteria-el-parrales/
-shop: Kopieren
+shop: copyshop
 ---

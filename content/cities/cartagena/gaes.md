@@ -1,5 +1,5 @@
 ---
 title: "GAES"
 url: /cartagena/gaes/
-shop: Hörgeräte
+shop: audífonos
 ---

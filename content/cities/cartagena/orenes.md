@@ -1,5 +1,5 @@
 ---
 title: "Orenes"
 url: /cartagena/orenes/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

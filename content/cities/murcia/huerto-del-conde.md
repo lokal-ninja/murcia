@@ -1,5 +1,5 @@
 ---
 title: "Huerto del Conde"
 url: /murcia/huerto-del-conde/
-shop: Garten-Center
+shop: centro de jardinería
 ---

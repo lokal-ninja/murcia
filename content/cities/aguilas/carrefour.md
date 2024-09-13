@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /aguilas/carrefour/
-shop: Supermarkt
+shop: supermercado
 ---

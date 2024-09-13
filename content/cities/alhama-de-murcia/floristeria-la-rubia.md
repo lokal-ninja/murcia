@@ -1,5 +1,5 @@
 ---
 title: "Floristería La Rubia"
 url: /alhama-de-murcia/floristeria-la-rubia/
-shop: Blumen
+shop: floristería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Estanco"
 url: /murcia/estanco/
-shop: Tabak
+shop: tabaco
 ---

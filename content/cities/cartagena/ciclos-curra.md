@@ -1,5 +1,5 @@
 ---
 title: "Ciclos Curra"
 url: /cartagena/ciclos-curra/
-shop: Fahrrad
+shop: bicicleta
 ---

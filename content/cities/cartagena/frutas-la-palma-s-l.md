@@ -1,5 +1,5 @@
 ---
 title: "Frutas La Palma S.L."
 url: /cartagena/frutas-la-palma-s-l/
-shop: Gemüse & Obst
+shop: frutería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "D'Dulce"
 url: /bullas/ddulce/
-shop: Babysachen
+shop: artículos para bebés
 ---

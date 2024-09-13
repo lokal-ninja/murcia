@@ -1,5 +1,5 @@
 ---
 title: "EntreTierras"
 url: /murcia/entretierras/
-shop: Reisebüro
+shop: agencia de viajes
 ---

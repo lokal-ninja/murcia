@@ -1,5 +1,5 @@
 ---
 title: "Bodegas Rosario"
 url: /bullas/bodegas-rosario/
-shop: Wein
+shop: vino
 ---

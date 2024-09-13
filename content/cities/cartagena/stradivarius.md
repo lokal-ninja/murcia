@@ -1,5 +1,5 @@
 ---
 title: "Stradivarius"
 url: /cartagena/stradivarius/
-shop: Kleidung
+shop: ropa
 ---

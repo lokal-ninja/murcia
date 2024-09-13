@@ -1,5 +1,5 @@
 ---
 title: "Alimentación Wang"
 url: /cehegin/alimentacion-wang/
-shop: Lebensmittel
+shop: comodidad
 ---

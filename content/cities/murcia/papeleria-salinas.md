@@ -1,5 +1,5 @@
 ---
 title: "Papelería Salinas"
 url: /murcia/papeleria-salinas/
-shop: Schreibwaren
+shop: material de oficina
 ---

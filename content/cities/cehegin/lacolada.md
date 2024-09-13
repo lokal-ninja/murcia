@@ -1,5 +1,5 @@
 ---
 title: "Lacolada"
 url: /cehegin/lacolada/
-shop: Wäscherei
+shop: lavandería
 ---

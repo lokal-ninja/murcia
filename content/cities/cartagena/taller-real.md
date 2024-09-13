@@ -1,5 +1,5 @@
 ---
 title: "Taller Real"
 url: /cartagena/taller-real/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

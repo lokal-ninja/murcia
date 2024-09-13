@@ -1,5 +1,5 @@
 ---
 title: "Elisa"
 url: /cartagena/elisa/
-shop: Friseur
+shop: ropa
 ---

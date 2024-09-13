@@ -1,5 +1,5 @@
 ---
 title: "La Parada"
 url: /cartagena/la-parada/
-shop: Lebensmittel
+shop: comodidad
 ---

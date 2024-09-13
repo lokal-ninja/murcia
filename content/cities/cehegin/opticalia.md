@@ -1,5 +1,5 @@
 ---
 title: "Opticalia"
 url: /cehegin/opticalia/
-shop: Optiker
+shop: óptico
 ---

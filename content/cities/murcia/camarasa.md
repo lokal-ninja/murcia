@@ -1,5 +1,5 @@
 ---
 title: "Camarasa"
 url: /murcia/camarasa/
-shop: Allgemein
+shop: general
 ---

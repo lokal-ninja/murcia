@@ -1,5 +1,5 @@
 ---
 title: "Modas Ana's"
 url: /cartagena/modas-anas/
-shop: Kleidung
+shop: ropa
 ---

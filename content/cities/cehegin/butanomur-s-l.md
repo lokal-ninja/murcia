@@ -1,5 +1,5 @@
 ---
 title: "Butanomur S.L."
 url: /cehegin/butanomur-s-l/
-shop: Gasflaschen
+shop: gas
 ---
