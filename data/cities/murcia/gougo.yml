@@ -4,8 +4,8 @@ latitude: 37.99213
 longitude: -1.12667
 postcode: "30008"
 city: Murcia
-street: "Ronda de Levante"
-housenumber: 19
-phone: "+34 968928880"
-opening_hours: "Mo-Fr 9:30–14:00,16:30–20:00"
-website: "https://gougo.es/"
+street: Ronda de Levante
+housenumber: "19"
+phone: +34 968928880
+opening_hours: Mo-Fr 9:30–14:00,16:30–20:00
+website: https://gougo.es/

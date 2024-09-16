@@ -4,8 +4,8 @@ latitude: 37.99333
 longitude: -1.13801
 postcode: "30009"
 city: Murcia
-street: "Calle Sierra Espuña"
-housenumber: 1
-phone: "+34 686 84 47 59;+34 696643448"
-opening_hours: "Mo-Sa 09:00-15:00; PH off"
+street: Calle Sierra Espuña
+housenumber: "1"
+phone: +34 686 84 47 59;+34 696643448
+opening_hours: Mo-Sa 09:00-15:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 146195633
-type: way
+type: node
 latitude: 37.41042
 longitude: -1.56505
 postcode: "30880"
 city: Águilas
-street: "Calle Andrés Segovia"
-housenumber: 10
-phone: "+34 968 49 79 77"
+street: Calle Andrés Segovia
+housenumber: "10"
+phone: +34 968 49 79 77
 opening_hours: ""
-website: "https://www.aguilasplaza.es/"
+website: https://www.aguilasplaza.es/

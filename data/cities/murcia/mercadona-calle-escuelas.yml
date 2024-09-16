@@ -1,11 +1,11 @@
 id: 213895988
-type: way
+type: node
 latitude: 37.97302
 longitude: -1.07089
 postcode: "30570"
 city: Murcia
-street: "Calle Escuelas"
-housenumber: 11
-phone: "+34 968 87 35 34"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+street: Calle Escuelas
+housenumber: "11"
+phone: +34 968 87 35 34
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

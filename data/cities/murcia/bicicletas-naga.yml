@@ -4,8 +4,8 @@ latitude: 37.98811
 longitude: -1.13675
 postcode: "30005"
 city: Murcia
-street: "Calle Acisclo Díaz"
-housenumber: 15
-phone: "+34 637 71 33 28"
-opening_hours: "Mo-Fr 09:30-14:00,16:30-20:00; Sa 09:30-13:30"
-website: "https://www.bicicletasnaga.es/"
+street: Calle Acisclo Díaz
+housenumber: "15"
+phone: +34 637 71 33 28
+opening_hours: Mo-Fr 09:30-14:00,16:30-20:00; Sa 09:30-13:30
+website: https://www.bicicletasnaga.es/

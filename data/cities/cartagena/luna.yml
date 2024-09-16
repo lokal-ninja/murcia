@@ -4,8 +4,8 @@ latitude: 37.60448
 longitude: -0.99001
 postcode: "30201"
 city: Cartagena
-street: "Calle del Carmen"
-housenumber: 47
+street: Calle del Carmen
+housenumber: "47"
 phone: ""
-opening_hours: "PH,Mo-Su 10:00-14:00,17:00-21:00"
+opening_hours: PH,Mo-Su 10:00-14:00,17:00-21:00
 website: ""

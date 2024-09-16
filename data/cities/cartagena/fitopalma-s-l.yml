@@ -1,11 +1,11 @@
 id: 775015056
-type: way
+type: node
 latitude: 37.68308
 longitude: -0.95313
 postcode: "30593"
 city: Cartagena
-street: "Calle Rondó"
-housenumber: 10
+street: Calle Rondó
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

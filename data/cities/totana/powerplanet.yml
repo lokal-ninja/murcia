@@ -1,11 +1,11 @@
 id: 1079506727
-type: way
+type: node
 latitude: 37.77723
 longitude: -1.45578
 postcode: "30850"
 city: Totana
-street: "Calle Balsón de Guillén"
-housenumber: 8
+street: Calle Balsón de Guillén
+housenumber: "8"
 phone: "+34868110041"
 opening_hours: ""
-website: "https://www.powerplanetonline.com/es/"
+website: https://www.powerplanetonline.com/es/

@@ -4,8 +4,8 @@ latitude: 37.60196
 longitude: -0.98739
 postcode: ""
 city: Cartagena
-street: "Calle Puerta de Murcia"
-housenumber: 5
+street: Calle Puerta de Murcia
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-15:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-15:00
 website: ""

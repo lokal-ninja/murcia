@@ -4,8 +4,8 @@ latitude: 37.97452
 longitude: -1.12318
 postcode: "30011"
 city: Murcia
-street: "Calle Torre de Romo"
-housenumber: 69
-phone: "+34 968 35 30 73"
-opening_hours: "Mo-Fr 09:00-14:00, 17:00-20:30"
-website: "http://www.moto5murcia.com/"
+street: Calle Torre de Romo
+housenumber: "69"
+phone: +34 968 35 30 73
+opening_hours: Mo-Fr 09:00-14:00, 17:00-20:30
+website: http://www.moto5murcia.com/

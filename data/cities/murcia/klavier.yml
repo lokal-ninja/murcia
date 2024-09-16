@@ -4,8 +4,8 @@ latitude: 37.9691
 longitude: -1.12849
 postcode: "30010"
 city: Murcia
-street: "Ronda Sur"
-housenumber: 22
-phone: "+34 968 26 77 71"
-opening_hours: "Mo-Fr 10:00-14:00, 17:00-21:00; Sa 10:00-14:00"
-website: "https://www.klavier.es"
+street: Ronda Sur
+housenumber: "22"
+phone: +34 968 26 77 71
+opening_hours: Mo-Fr 10:00-14:00, 17:00-21:00; Sa 10:00-14:00
+website: https://www.klavier.es

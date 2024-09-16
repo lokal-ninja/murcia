@@ -1,11 +1,11 @@
 id: 519735489
-type: way
+type: node
 latitude: 38.22595
 longitude: -1.70996
 postcode: "30420"
 city: Calasparra
-street: "Avenida de Juan Carlos I"
-housenumber: 152
+street: Avenida de Juan Carlos I
+housenumber: "152"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

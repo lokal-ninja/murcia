@@ -1,11 +1,11 @@
 id: 775015060
-type: way
+type: node
 latitude: 37.68401
 longitude: -0.95301
 postcode: "30593"
 city: Cartagena
-street: "Calle Dátil"
-housenumber: 5
+street: Calle Dátil
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-14:00"
+opening_hours: Mo-Sa 09:00-14:00
 website: ""

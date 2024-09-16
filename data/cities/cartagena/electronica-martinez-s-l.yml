@@ -1,11 +1,11 @@
 id: 273540546
-type: way
+type: node
 latitude: 37.68461
 longitude: -0.95274
 postcode: "30593"
 city: Cartagena
-street: "Avenida Tomás Ferro"
-housenumber: 
+street: Avenida Tomás Ferro
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

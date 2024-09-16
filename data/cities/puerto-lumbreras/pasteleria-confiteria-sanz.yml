@@ -4,8 +4,8 @@ latitude: 37.56325
 longitude: -1.80841
 postcode: "30890"
 city: Puerto Lumbreras
-street: "Calle Mayor"
-housenumber: 44
-phone: "+34 968 40 20 10"
-opening_hours: "Todos los días excepto lunes"
-website: "http://www.confiteriasanz.com/"
+street: Calle Mayor
+housenumber: "44"
+phone: +34 968 40 20 10
+opening_hours: Todos los días excepto lunes
+website: http://www.confiteriasanz.com/

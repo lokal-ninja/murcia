@@ -4,8 +4,8 @@ latitude: 37.71159
 longitude: -0.99189
 postcode: "30594"
 city: Cartagena
-street: "Calle Emilio Ballester"
-housenumber: 6
-phone: "+34 609199968"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.consum.es/"
+street: Calle Emilio Ballester
+housenumber: "6"
+phone: +34 609199968
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.consum.es/

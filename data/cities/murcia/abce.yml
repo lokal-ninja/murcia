@@ -4,8 +4,8 @@ latitude: 37.99197
 longitude: -1.1289
 postcode: "30008"
 city: Murcia
-street: "Ronda de Levante"
-housenumber: 4
-phone: "+34 868199339"
-opening_hours: "Mo-Sa 10:00-21:30"
-website: "https://www.abce.store/"
+street: Ronda de Levante
+housenumber: "4"
+phone: +34 868199339
+opening_hours: Mo-Sa 10:00-21:30
+website: https://www.abce.store/

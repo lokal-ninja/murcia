@@ -4,8 +4,8 @@ latitude: 37.97894
 longitude: -1.13085
 postcode: "30002"
 city: Murcia
-street: "Calle Floridablanca"
-housenumber: 4
+street: Calle Floridablanca
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30;Su off"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-21:30;Su off
+website: https://www.mercadona.es

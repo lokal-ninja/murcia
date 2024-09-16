@@ -1,11 +1,11 @@
 id: 80512800
-type: way
+type: node
 latitude: 38.47098
 longitude: -1.31267
 postcode: "30520"
 city: Jumilla
-street: "Avenida de Murcia"
-housenumber: 
-phone: "+34 968780559"
-opening_hours: "Mo-Fr 09:00-13:30,15:30-19:00"
-website: "https://www.bodegasfernandez.es/"
+street: Avenida de Murcia
+housenumber: ""
+phone: +34 968780559
+opening_hours: Mo-Fr 09:00-13:30,15:30-19:00
+website: https://www.bodegasfernandez.es/

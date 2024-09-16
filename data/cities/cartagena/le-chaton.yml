@@ -4,8 +4,8 @@ latitude: 37.59959
 longitude: -0.98552
 postcode: "30202"
 city: Cartagena
-street: "Calle del Cañón"
-housenumber: 3
-phone: "+34 868788255"
-opening_hours: "Tu-Sa 11:00-14:00,18:00-21:00; We 10:00-15:00; Su 11:00-15:00"
+street: Calle del Cañón
+housenumber: "3"
+phone: +34 868788255
+opening_hours: Tu-Sa 11:00-14:00,18:00-21:00; We 10:00-15:00; Su 11:00-15:00
 website: ""
