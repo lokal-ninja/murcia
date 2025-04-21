@@ -1,6 +1,6 @@
 ---
 title: Librilla
 url: /librilla/
-latitude: 37.887
-longitude: -1.351
+latitude: 37.885
+longitude: -1.357
 ---
