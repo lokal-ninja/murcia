@@ -1,6 +1,6 @@
 ---
 title: Jumilla
 url: /jumilla/
-latitude: 38.472
-longitude: -1.331
+latitude: 38.474
+longitude: -1.326
 ---
