@@ -1,6 +1,6 @@
 ---
 title: Bullas
 url: /bullas/
-latitude: 38.05
-longitude: -1.67
+latitude: 38.049
+longitude: -1.666
 ---
