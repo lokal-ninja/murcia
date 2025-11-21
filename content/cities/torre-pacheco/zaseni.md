@@ -1,5 +1,5 @@
 ---
 title: "Zaseni"
-url: /cartagena/zaseni/
+url: /torre-pacheco/zaseni/
 shop: cosméticos
 ---
