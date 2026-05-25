@@ -1,6 +1,6 @@
 ---
 title: Murcia
 url: /murcia/
-latitude: 37.971
-longitude: -1.121
+latitude: 37.969
+longitude: -1.128
 ---
