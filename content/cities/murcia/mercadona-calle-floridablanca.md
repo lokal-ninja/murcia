@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /murcia/mercadona-2/
+url: /murcia/mercadona-calle-floridablanca/
 shop: supermercado
 ---
